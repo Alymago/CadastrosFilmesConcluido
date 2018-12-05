@@ -1,0 +1,294 @@
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\obj\Debug\Filmes.csprojAssemblyReference.cache
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\obj\Debug\Filmes.csproj.CoreCompileInputs.cache
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\ApplicationInsights.config
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\Filmes.dll.config
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\Filmes.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\Filmes.pdb
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\csc.exe
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\csc.exe.config
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\csc.rsp
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\csi.exe
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\csi.exe.config
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\csi.rsp
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\System.AppContext.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\System.Console.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\System.IO.Compression.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\System.IO.Pipes.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\System.Security.Claims.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\System.ValueTuple.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\vbc.exe
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\vbc.exe.config
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\vbc.rsp
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\VBCSCompiler.exe
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\Antlr3.Runtime.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\Microsoft.AI.Web.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\Newtonsoft.Json.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\System.Web.Helpers.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\System.Web.Mvc.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\System.Web.Optimization.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\System.Web.Razor.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\System.Web.WebPages.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\System.Web.WebPages.Razor.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\WebGrease.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\System.Web.Helpers.xml
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\System.Web.Mvc.xml
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\System.Web.Optimization.xml
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\System.Web.Razor.xml
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\System.Web.WebPages.xml
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\System.Web.WebPages.Razor.xml
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\Newtonsoft.Json.xml
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\Antlr3.Runtime.pdb
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\Microsoft.AI.Web.xml
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\obj\Debug\Filmes.csproj.CopyComplete
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\obj\Debug\Filmes.dll
+C:\Users\alysson.mgodoy\source\repos\Filmes\Filmes\obj\Debug\Filmes.pdb
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\ApplicationInsights.config
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\Filmes.dll.config
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\Filmes.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\Filmes.pdb
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\csc.exe
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\csc.exe.config
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\csc.rsp
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\csi.exe
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\csi.exe.config
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\csi.rsp
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\System.AppContext.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\System.Console.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\System.IO.Compression.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\System.IO.Pipes.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\System.Security.Claims.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\System.ValueTuple.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\vbc.exe
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\vbc.exe.config
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\vbc.rsp
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\VBCSCompiler.exe
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\Antlr3.Runtime.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\Microsoft.AI.Web.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\Microsoft.ApplicationInsights.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\Newtonsoft.Json.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\System.Web.Helpers.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\System.Web.Mvc.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\System.Web.Optimization.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\System.Web.Razor.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\System.Web.WebPages.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\System.Web.WebPages.Razor.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\WebGrease.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\System.Web.Helpers.xml
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\System.Web.Mvc.xml
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\System.Web.Optimization.xml
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\System.Web.Razor.xml
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\System.Web.WebPages.xml
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\System.Web.WebPages.Razor.xml
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\Newtonsoft.Json.xml
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\Antlr3.Runtime.pdb
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\Microsoft.AI.Web.xml
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\obj\Debug\Filmes.csprojAssemblyReference.cache
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\obj\Debug\Filmes.csproj.CoreCompileInputs.cache
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\obj\Debug\Filmes.csproj.CopyComplete
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\obj\Debug\Filmes.dll
+C:\Users\alysson.mgodoy\source\repos\DemoCadastroFilmes\Filmes\obj\Debug\Filmes.pdb
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\obj\Debug\Filmes.csprojAssemblyReference.cache
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\obj\Debug\Filmes.csproj.CoreCompileInputs.cache
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\obj\Debug\Filmes.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\obj\Debug\Filmes.pdb
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\ApplicationInsights.config
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\Filmes.dll.config
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\Filmes.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\Filmes.pdb
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\csc.exe
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\csc.exe.config
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\csc.rsp
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\csi.exe
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\csi.exe.config
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\csi.rsp
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\Microsoft.CodeAnalysis.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\Microsoft.CSharp.Core.targets
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\Microsoft.Managed.Core.targets
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\System.AppContext.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\System.Collections.Immutable.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\System.Console.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\System.Diagnostics.StackTrace.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\System.IO.Compression.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\System.IO.FileSystem.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\System.IO.Pipes.AccessControl.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\System.IO.Pipes.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\System.Reflection.Metadata.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\System.Security.AccessControl.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\System.Security.Claims.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\System.Security.Principal.Windows.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\System.Text.Encoding.CodePages.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\System.ValueTuple.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\System.Xml.ReaderWriter.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\System.Xml.XmlDocument.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\System.Xml.XPath.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\System.Xml.XPath.XDocument.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\vbc.exe
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\vbc.exe.config
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\vbc.rsp
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\VBCSCompiler.exe
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\roslyn\VBCSCompiler.exe.config
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\Antlr3.Runtime.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\Microsoft.AI.Agent.Intercept.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\Microsoft.AI.DependencyCollector.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\Microsoft.AI.PerfCounterCollector.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\Microsoft.AI.Web.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\Microsoft.AI.WindowsServer.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\Microsoft.ApplicationInsights.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\Microsoft.Web.Infrastructure.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\Newtonsoft.Json.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\System.Diagnostics.DiagnosticSource.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\System.Web.Helpers.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\System.Web.Mvc.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\System.Web.Optimization.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\System.Web.Razor.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\System.Web.WebPages.Deployment.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\System.Web.WebPages.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\System.Web.WebPages.Razor.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\WebGrease.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\System.Web.Helpers.xml
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\System.Web.Mvc.xml
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\System.Web.Optimization.xml
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\System.Web.Razor.xml
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\System.Web.WebPages.xml
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\System.Web.WebPages.Deployment.xml
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\System.Web.WebPages.Razor.xml
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\Newtonsoft.Json.xml
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\Antlr3.Runtime.pdb
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\System.Diagnostics.DiagnosticSource.xml
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\Microsoft.AI.DependencyCollector.xml
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\Microsoft.AI.WindowsServer.xml
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\Microsoft.AI.Web.xml
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\pt-br\System.Web.Helpers.resources.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\pt-br\System.Web.Mvc.resources.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\pt-br\System.Web.Optimization.resources.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\pt-br\System.Web.Razor.resources.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\pt-br\System.Web.WebPages.resources.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+T:\Publica\Alysson\Gui gay\DemoCadastroFilmes\Filmes\obj\Debug\Filmes.csproj.CopyComplete

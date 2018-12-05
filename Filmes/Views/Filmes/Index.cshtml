@@ -1,0 +1,82 @@
+﻿@model List<Filmes.Models.Filmes>
+<div class="col-md-2 right">
+
+</div>
+<div class="panel panel-primary" style="margin-top:50px">
+    <div class="panel-heading">Lista de Filmes</div>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Quantidade</th>
+                <th>Nome</th>
+                <th>Diretor</th>
+                <th>Genero</th>
+                <th>Censurado</th>
+                <th>Editar</th>
+                <th>Excluir</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var filmes in Model)
+            {
+                <tr>
+                    <td>
+                        @filmes.Quantidade
+                    </td>
+                    <td>
+                        @filmes.Nome
+                    </td>
+                    <td>
+                        @filmes.Diretor
+                    </td>
+                    <td>
+                        @filmes.Genero
+                    </td>
+                    <td>
+                        @if (filmes.Censurado)
+                        {
+                            <span>Filme Censurado</span>
+                        }
+                        else
+                        {
+                            <span>Filme não censurado</span>
+                        }
+                    </td>
+                    <td>
+                        <form action="~/Filmes/Editar">
+                            <input type="hidden" name="FilmeId" value="@filmes.FilmeId" />
+                            <button type="submit" class="btn btn-warning">
+                                <span class="glyphicon glyphicon-pencil"></span>&nbsp;
+                            </button>
+                        </form>
+                    </td>
+                    <td>
+                        <form action="~/Filmes/Deletar">
+                            <input type="hidden" name="FilmeId" value="@filmes.FilmeId" />
+                            <button type="submit" class="btn btn-danger">
+                                <span class="glyphicon glyphicon-trash"></span>&nbsp;
+                            </button>
+                        </form>
+                    </td>
+                </tr>
+
+            }
+        </tbody>
+    </table>
+</div>
+<form action="~/Filmes/CriarFilme" style="float: right">
+    <input type="submit" class="btn btn-success right" value="Cadastrar Filme"/>
+    
+</form>
+
+
+<style>
+    .panel-heading {
+        background-color: black !important;
+        border-color: black !important;
+    }
+
+    .panel-primary {
+        border-color: black !important;
+    }
+</style>
